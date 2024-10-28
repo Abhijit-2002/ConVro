@@ -1,0 +1,5 @@
+/* *{
+    background-image: url(../../../public/image.png);
+}
+bg-[url(${img})] 
+style={{ backgroundImage: `url(${img})` }}  */
