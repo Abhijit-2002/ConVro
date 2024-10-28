@@ -1,6 +1,6 @@
 import React from 'react'
 import {useAuthContext} from '../../context/AuthContext.jsx'
-import { extractTime } from "../../utils/extractTime";
+import { extractTime } from "../../utils/extractTime.js";
 import useConversation from "../../zustand/useConversation";
 
 
